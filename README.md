@@ -10,3 +10,4 @@ https://lilianweng.github.io/posts/2023-06-23-agent/
 1. https://github.com/NirDiamant/Prompt_Engineering
 2.  https://www.linkedin.com/in/nir-diamant-ai/
 3. https://medium.com/@muhammmadahsan2001/building-a-multi-tool-ai-system-with-youtube-tavily-and-groq-486f5b1e75fa
+4. https://github.com/amanv1906/GENAI-CareerAssistant-Multiagent
