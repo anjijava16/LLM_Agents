@@ -7,4 +7,5 @@ https://lilianweng.github.io/posts/2023-06-23-agent/
 
 
 # Agents + Prompt Engineering
-1. https://www.linkedin.com/in/nir-diamant-ai/
+1. https://github.com/NirDiamant/Prompt_Engineering
+2.  https://www.linkedin.com/in/nir-diamant-ai/
